@@ -24,21 +24,12 @@
 ---
 
 ### 🛠️ Tech Stack
-<img src="https://img.icons8.com/color/48/flutter.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/dart.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/firebase.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/python.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/sql.png" height="40"/> 
-<img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>
+<p align="left"> <img src="https://img.icons8.com/color/48/flutter.png" height="40"/> <img src="https://img.icons8.com/color/48/dart.png" height="40"/> <img src="https://img.icons8.com/color/48/firebase.png" height="40"/> <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/sql.png" height="40"/> <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/> </p>
 
 ---
 
 ### 🔧 Tools I Use
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> 
-<img src="https://img.icons8.com/ios/50/macbook.png" height="40"/> 
-<img src="https://img.icons8.com/fluency/48/github.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>
-
+<p align="left"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/ios/50/macbook.png" height="40"/> <img src="https://img.icons8.com/fluency/48/github.png" height="40"/> <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/> </p>
 ---
 
 ### 📬 Contact Me
