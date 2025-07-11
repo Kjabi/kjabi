@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Abisheek (Kjabi)
+## Hey there 👋 I'm Abisheek 
 
 🚀 Flutter Developer | 🧠 AI & Data Science Student  
 🎯 Focused on building beautiful UIs & smart apps  
