@@ -14,12 +14,16 @@
 
 ---
 
-### 💼 Projects I'm proud of
-- 🎮 [**Tapping Game**](https://github.com/Kjabi/Taping_Game) – A fun Flutter game focused on UI and speed
-- 🍔 [**Restaurant Menu App**](https://github.com/Kjabi/flutter_restaurant_menu_app) – Stylish card-based menu with clean layout
-- 🔐 [**Login Page UI**](https://github.com/Kjabi/login_page) – Modern & minimal authentication screen in Flutter
-- 🔢 [**Calculator App**](https://github.com/Kjabi/flutter_calculator_app) – Simple and neat calculator built with Dart
-- 🛠️ More awesome stuff coming soon!
+### 💼 Projects I'm Proud Of
+
+- 🎮 [**Tapping Game**](https://github.com/Kjabi/Taping_Game) – A fun Flutter game focused on UI and speed  
+- 🍔 [**Restaurant Menu App**](https://github.com/Kjabi/flutter_restaurant_menu_app) – Stylish card-based menu with clean layout  
+- 🔐 [**Login Page UI**](https://github.com/Kjabi/login_page) – Modern & minimal authentication screen in Flutter  
+- 🔢 [**Calculator App**](https://github.com/Kjabi/flutter_calculator_app) – Simple and neat calculator built with Dart  
+- 🏥 [**Hospital Management System**](https://github.com/Kjabi/hospital_management) – Tkinter + MySQL app for managing patient records & prescriptions  
+- 📚 [**Library Management System**](https://github.com/Kjabi/library_management) – Python + SQL project for handling books, members & transactions  
+- 👤 [**Face Attendance System**](https://github.com/Kjabi/face_attendance) – Python + OpenCV project for student face recognition & attendance tracking  
+- 🛠️ More awesome stuff coming soon! 🚀  
 
 ---
 
